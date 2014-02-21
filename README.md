@@ -1,4 +1,4 @@
-##Laravgravatar
+##Laragravatar
 
 Really simple Gravatar extension for Laravel.
 
